@@ -1,5 +1,5 @@
 # Finding-Product-Variations
-This code is designed to extract product variations from any Shopify website URL using web scraping techniques. The code extracts relevant information from the website, such as product descriptions and variant details, and then applies DBSCAN clustering algorithm to group similar products together.
+This code is designed to extract product variations from 'any' Shopify website URL using web scraping techniques. The code extracts relevant information from the website, such as product descriptions and variant details, and then applies DBSCAN clustering algorithm to group similar products together.
 
 The extracted variants can include attributes such as colors, sizes, or other product features, depending on how they are represented on the website. The clustering algorithm is used to group products together based on their similarity, which can help identify common product categories and subcategories, and potentially reveal insights about customer preferences and behaviors.
 
